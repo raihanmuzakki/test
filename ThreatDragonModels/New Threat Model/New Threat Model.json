@@ -2,15 +2,25 @@
   "version": "2.0.3",
   "summary": {
     "title": "New Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "zakki",
+    "description": "hard",
     "id": 0
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New generic diagram",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.0.3",
+        "description": "spotlight"
+      }
+    ],
     "diagramTop": 1,
-    "reviewer": "",
+    "reviewer": "yup",
     "threatTop": 0
   }
 }
